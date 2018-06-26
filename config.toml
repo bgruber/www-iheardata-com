@@ -1,19 +1,19 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "Brian Gruber"
-theme = "cocoa"
+baseURL         = "https://www.iheardata.com/"
+languageCode    = "en-us"
+title           = "Brian Gruber"
+theme           = "cocoa"
 
 [[menu.main]]
-name = "Bio"
-url = "/bio/"
+name            = "Bio"
+url             = "/bio/"
 
 [params]
-author = "Brian Gruber"
-description = "i hear data"
+author          = "Brian Gruber"
+description     = "i hear data"
 
-github = "//github.com/bgruber"
-twitter = "//twitter.com/iheardata"
-instagram = "//instagram.com/iheardata"
-linkedin = "//linkedin.com/in/brian-gruber-73b6105/"
+github          = "https://github.com/bgruber"
+twitter         = "https://twitter.com/iheardata"
+instagram       = "https://instagram.com/iheardata"
+linkedin        = "https://linkedin.com/in/brian-gruber-73b6105/"
 
-gravatar = "15189314d09d28a33ceb753fa2b6741a"
+gravatar        = "15189314d09d28a33ceb753fa2b6741a"
