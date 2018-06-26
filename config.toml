@@ -6,6 +6,9 @@ theme           = "cocoa"
 [[menu.main]]
 name            = "Bio"
 url             = "/bio/"
+[[menu.main]]
+name            = "Projects"
+url             = "/projects/"
 
 [params]
 author          = "Brian Gruber"
