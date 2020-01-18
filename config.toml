@@ -21,3 +21,8 @@ instagram       = "https://instagram.com/iheardata"
 linkedin        = "https://linkedin.com/in/brian-gruber-73b6105/"
 
 gravatar        = "15189314d09d28a33ceb753fa2b6741a"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
