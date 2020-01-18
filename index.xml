@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brian Gruber</title>
+    <link>https://www.iheardata.com/</link>
+    <description>Recent content on Brian Gruber</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Jun 2018 09:26:01 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.iheardata.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bio</title>
+      <link>https://www.iheardata.com/bio/</link>
+      <pubDate>Mon, 25 Jun 2018 09:26:01 -0400</pubDate>
+      
+      <guid>https://www.iheardata.com/bio/</guid>
+      <description>Brian Gruber is a software engineer who likes computers, music, and combinations thereof. He currently serves as the Principal Architect on the engineering team for Meetup, where he&amp;rsquo;s been helping people use the internet to get off the internet since 2011.
+He particularly enjoys making musical noises out of data: sometimes with a practical purpose in mind; sometimes to make art; and sometimes just to see what it will sound like.</description>
+    </item>
+    
+  </channel>
+</rss>
